@@ -17,7 +17,8 @@ Expected output
     roles: { foo: 'bar' },
     jobs: [ 'foo', 'bar' ]
   }
-]```
+]
+```
 
 ## Vitests
 
