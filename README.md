@@ -22,6 +22,6 @@ Expected output
 
 ## Vitests
 
-Also set of test using vitest
+There are also a set of tests using vitest.
 
 `pnpm vitest`
