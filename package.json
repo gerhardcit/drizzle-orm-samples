@@ -1,0 +1,23 @@
+{
+  "name": "drizzle-orm-samples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": "drizzle, orm, sqlite",
+  "author": "Gerhard Pretorius",
+  "license": "ISC",
+  "devDependencies": {
+    "@miniflare/d1": "^2.14.0",
+    "@miniflare/shared": "^2.14.0",
+    "drizzle-kit": "^0.19.10",
+    "tsx": "^3.12.7",
+    "vitest": "^0.33.0"
+  },
+  "dependencies": {
+    "better-sqlite3": "^8.5.0",
+    "drizzle-orm": "^0.27.2"
+  }
+}
